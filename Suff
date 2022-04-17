@@ -1,0 +1,36 @@
+<DOCTYPE html>
+  <html>
+
+    <head>
+      <link rel="stylesheet" href="styles.css">
+
+      </link>
+      <title>
+        PAPER(origami master)
+      </title>
+    </head>
+
+    <body id="body" onload="bodyload()">
+
+      <h1 id="nameheading">Paper</h1>
+      <h2 id="start">the origami master</h2>
+      <button onclick="changetheme()" id="button">
+        Change Theme
+      </button>
+
+      <img src="https://www.colorado.edu/coloradan/sites/default/files/article-image/post-it-note.gif" onmouseleave="changeimageleave()" onmouseover="changeimageover()" id="paper" style="width:200px">
+      <br>
+      <a href="https://scratch.mit.edu" target="_blank" id="link">
+        Click Here
+      </a>
+      <p>
+      <h1>A little about him</h1>
+      <h2>He is the origami master. Can fold himself to shap-shift. Little brother to post-it, the iventor of the post-it-note.</h2>
+      <h1>Where he Lives</h1>
+      <h3>He lives at the landfill rescuing any paper that gets thrown away. <h1>Powers</h1>He can both shape-shift himself and others(other paper) using origami.<h1>Family</h1><br>His older sister (named Post-It)is the world famous inventor of the Post-It-Note. She named her product by connecting her and her closest friend's names. If you haven't guessed by now, her friend's name is Note.BACK TO PAPER <h1>Good or Bad</h1>So if you can't tell, he is a good paper. He is a super paper!</h3>
+      </p>
+      <p>
+        I am!!!!
+      </p>
+    </body>
+  </html>
